@@ -1,2 +1,1 @@
-
-Hello world!
+Exercise: Setting up the repository

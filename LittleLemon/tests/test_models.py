@@ -1,6 +1,6 @@
 from django.test import TestCase
 from models import Menu
-from .test_models import Menu
+
 
 class MenuTestCase(TestCase):
     def test_get_item(self):
